@@ -1,0 +1,14 @@
+#image{
+    position: relative;
+    width: 100%;
+}
+#body{
+    position: relative;
+    margin-left: 35%;
+    margin-top: -40%;
+    font-size: xx-large;
+}
+button{
+    background-color: yellowgreen;
+    border: 2px solid black;;
+}
